@@ -32,3 +32,5 @@
 		alert( sumTo(100) );
 ```
 6. [Blog](https://github.com/MaksimKonoplich)
+7. Basics of algorithms and programming at the university, HTML and CSS on [htmlacademy.ru](https://htmlacademy.ru), **JavaScript**: documentation and Eric Freeman's "Learning programming on Javascript. Head First".
+8. English Level: **B1**(Sertificate of foreign language School *Streamline*).
