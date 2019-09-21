@@ -1,8 +1,8 @@
 # rsschool-cv
 
-1. **Maksim** Konoplich
+1. **Maksim Konoplich**
 2. Phone Number: +375295382436; email: gladiator8899@mail.ru; discord: Maksim Konoplich#2325
-3. I want to be a _full-stack Web-Developer_, get knowledge and practice in _JavaScript_ (especially [Django FrameWork](https://ru.wikipedia.org/wiki/Django))
+3. I want to be a _full-stack Web-Developer_, get knowledge and practice in _JavaScript_
 4. **Skills**: [HTML5](https://ru.wikipedia.org/wiki/HTML5), [CSS3](https://ru.wikipedia.org/wiki/CSS), [JavaScript](https://ru.wikipedia.org/wiki/JavaScript), [Bootstrap 4.0](https://bootstrap-4.ru), Git.
 5. 
 ```javascript
@@ -33,4 +33,4 @@
 ```
 6. [Blog](https://github.com/MaksimKonoplich)
 7. Basics of algorithms and programming at the university, HTML and CSS on [htmlacademy.ru](https://htmlacademy.ru), **JavaScript**: documentation and Eric Freeman's "Learning programming on Javascript. Head First".
-8. English Level: **B1**(Sertificate of foreign language School *Streamline*).
+8. English Level: **B1**(Sertificate of foreign language School *"Streamline"*).
