@@ -5,7 +5,7 @@
 3. I want to be a _full-stack Web-Developer_, get knowledge and practice in _JavaScript_ (especially [Django FrameWork](https://ru.wikipedia.org/wiki/Django))
 4. **Skills**: [HTML5](https://ru.wikipedia.org/wiki/HTML5), [CSS3](https://ru.wikipedia.org/wiki/CSS), [JavaScript](https://ru.wikipedia.org/wiki/JavaScript), [Bootstrap 4.0](https://bootstrap-4.ru), Git.
 5. 
-```JavaScript
+```javascript
 		function formatDate(date) {
 			if (typeof date == 'number') {
 				date = new Date(date * 1000);
@@ -21,7 +21,7 @@
 		alert( formatDate(1234567890) ); // 14.02.09
 		alert( formatDate(new Date(2014, 0, 1)) ); // 01.01.14
 ```
-```JavaScript
+```javascript
 		function sumTo(n) {
 			var result = 0;
 			for (var i = 1; i < n; i++) {
