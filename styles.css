@@ -62,3 +62,30 @@ header {
 .contact a p{
 	display: inline;
 }
+
+/* MAIN */
+.main {
+	background: url(images/main.jpg) left top;
+	height: 700px;
+}
+
+.add-info {
+	padding: 20px;
+	padding-left: 10px;
+}
+
+.add-info p {
+	font-size: 30px;
+}
+
+.add-info h1 {
+	color: violet;
+}
+
+/* FOOTER */
+.footer {
+	background: url(images/footer.jpg) left top;
+	height: 60px;
+	text-align: center;
+	line-height: 60px;
+}
