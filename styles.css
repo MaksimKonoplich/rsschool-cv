@@ -1,0 +1,64 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: "Exo 2", "Calibri", sans-serif;
+}
+
+body {
+	max-width: 1024px;
+	margin: 0 auto;
+	font-size: 24px;
+	color: white;
+	border: 1px solid green;
+	box-shadow: 0 0 10px violet;
+}
+
+a, a:focus, a:active { 
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	color: violet;
+}
+
+/* HEADER */
+header {
+	height: 250px;
+	background: url(images/header.png) left top;
+	display: flex;
+	flex-direction: row;
+	align-items: center; 
+	justify-content: space-between;
+}
+
+.first-sec {
+	margin-left: 100px;
+	text-align: center;
+}
+
+.second-sec {
+	margin-right: 100px; 
+}
+
+.second-sec h1 {
+	text-align: center;
+	color: violet;
+}
+
+.contact:first-child {
+	margin-bottom: 20px;
+}
+
+.contact img:first-child{
+  margin-bottom: -0.7em;
+}
+
+.contact img:last-child{
+	float: left;
+  margin: -0.7em;
+}
+
+.contact a p{
+	display: inline;
+}
